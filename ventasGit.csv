@@ -1,0 +1,31 @@
+Fecha,Ciudad,Vendedor,Cliente,Producto,Categoría,Cantidad,Precio_Unitario,Canal
+2026-01-03,Medellín,Carlos Pérez,Tecno Store,Laptop Lenovo,Tecnología,2,3200,Tienda
+2026-01-04,Bogotá,Ana Torres,Grupo Alfa,Mouse Inalámbrico,Accesorios,8,65,Online
+2026-01-05,Cali,Juan López,Comercial Díaz,Monitor 24",Tecnología,3,980,Tienda
+2026-01-06,Barranquilla,Sofía Gómez,Inversiones JG,Teclado Mecánico,Accesorios,5,180,Online
+2026-01-07,Medellín,Luis Ramírez,Distribuciones LM,Impresora Epson,Oficina,2,950,Tienda
+2026-01-08,Cartagena,Camila Ruiz,Soluciones SAS,Silla Ergonómica,Muebles,4,720,Online
+2026-01-09,Bucaramanga,Andrés Silva,ABC Comercial,Disco SSD 1TB,Almacenamiento,6,420,Tienda
+2026-01-10,Pereira,Diana Herrera,Global Tech,Memoria RAM 16GB,Componentes,10,250,Online
+2026-01-11,Manizales,Carlos Pérez,Compuservicios,Laptop HP,Tecnología,1,3500,Tienda
+2026-01-12,Montería,Ana Torres,Electro Hogar,Monitor 27",Tecnología,2,1250,Online
+2026-01-13,Cúcuta,Juan López,Ofimuebles,Escritorio,Muebles,3,890,Tienda
+2026-01-14,Ibagué,Sofía Gómez,Distribuidora Norte,Silla Ejecutiva,Muebles,2,980,Online
+2026-01-15,Medellín,Luis Ramírez,Data Solutions,Router WiFi,Redes,7,280,Tienda
+2026-01-16,Bogotá,Camila Ruiz,Comercial Andes,Switch 24 Puertos,Redes,2,780,Online
+2026-01-17,Cali,Andrés Silva,Digital SAS,Laptop ASUS,Tecnología,2,3900,Tienda
+2026-01-18,Barranquilla,Diana Herrera,Importadora Sur,Audífonos Bluetooth,Accesorios,12,150,Online
+2026-01-19,Cartagena,Carlos Pérez,Comercial Costa,Webcam HD,Accesorios,8,180,Tienda
+2026-01-20,Bucaramanga,Ana Torres,Grupo Beta,Disco Externo 2TB,Almacenamiento,4,490,Online
+2026-01-21,Pereira,Juan López,Almacén Central,Tablet Samsung,Tecnología,5,1450,Tienda
+2026-01-22,Montería,Sofía Gómez,Innovatech,Impresora HP,Oficina,3,890,Online
+2026-01-23,Medellín,Luis Ramírez,CompuMarket,Mouse Gamer,Accesorios,15,120,Tienda
+2026-01-24,Bogotá,Camila Ruiz,Servicios Integrales,Teclado Inalámbrico,Accesorios,9,140,Online
+2026-01-25,Cali,Andrés Silva,Corporación Delta,Laptop Dell,Tecnología,2,4100,Tienda
+2026-01-26,Barranquilla,Diana Herrera,Alfa Ingeniería,Monitor Curvo,Tecnología,2,1800,Online
+2026-01-27,Cartagena,Carlos Pérez,Red Empresarial,Access Point,Redes,6,360,Tienda
+2026-01-28,Bucaramanga,Ana Torres,ServiCompu,UPS 1500VA,Energía,3,690,Online
+2026-01-29,Pereira,Juan López,Grupo Omega,Disco SSD 512GB,Almacenamiento,7,250,Tienda
+2026-01-30,Montería,Sofía Gómez,TecnoWorld,Memoria USB 64GB,Almacenamiento,20,45,Online
+2026-01-31,Medellín,Luis Ramírez,Net Solutions,Cámara IP,Seguridad,5,380,Tienda
+2026-02-01,Bogotá,Camila Ruiz,Vision Digital,Proyector,Oficina,2,2100,Online
