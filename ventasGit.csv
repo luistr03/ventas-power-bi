@@ -1,31 +1,36 @@
-Fecha,Ciudad,Vendedor,Cliente,Producto,CategorÌa,Cantidad,Precio_Unitario,Canal
-2026-01-03,MedellÌn,Carlos PÈrez,Tecno Store,Laptop Lenovo,TecnologÌa,2,3200,Tienda
-2026-01-04,Bogot·,Ana Torres,Grupo Alfa,Mouse Inal·mbrico,Accesorios,8,65,Online
-2026-01-05,Cali,Juan LÛpez,Comercial DÌaz,Monitor 24",TecnologÌa,3,980,Tienda
-2026-01-06,Barranquilla,SofÌa GÛmez,Inversiones JG,Teclado Mec·nico,Accesorios,5,180,Online
-2026-01-07,MedellÌn,Luis RamÌrez,Distribuciones LM,Impresora Epson,Oficina,2,950,Tienda
-2026-01-08,Cartagena,Camila Ruiz,Soluciones SAS,Silla ErgonÛmica,Muebles,4,720,Online
-2026-01-09,Bucaramanga,AndrÈs Silva,ABC Comercial,Disco SSD 1TB,Almacenamiento,6,420,Tienda
+Fecha,Ciudad,Vendedor,Cliente,Producto,Categor√≠a,Cantidad,Precio_Unitario,Canal
+2026-01-03,Medell√≠n,Carlos P√©rez,Tecno Store,Laptop Lenovo,Tecnolog√≠a,2,3200,Tienda
+2026-01-04,Bogot√°,Ana Torres,Grupo Alfa,Mouse Inal√°mbrico,Accesorios,8,65,Online
+2026-01-05,Cali,Juan L√≥pez,Comercial D√≠az,Monitor 24",Tecnolog√≠a,3,980,Tienda
+2026-01-06,Barranquilla,Sof√≠a G√≥mez,Inversiones JG,Teclado Mec√°nico,Accesorios,5,180,Online
+2026-01-07,Medell√≠n,Luis Ram√≠rez,Distribuciones LM,Impresora Epson,Oficina,2,950,Tienda
+2026-01-08,Cartagena,Camila Ruiz,Soluciones SAS,Silla Ergon√≥mica,Muebles,4,720,Online
+2026-01-09,Bucaramanga,Andr√©s Silva,ABC Comercial,Disco SSD 1TB,Almacenamiento,6,420,Tienda
 2026-01-10,Pereira,Diana Herrera,Global Tech,Memoria RAM 16GB,Componentes,10,250,Online
-2026-01-11,Manizales,Carlos PÈrez,Compuservicios,Laptop HP,TecnologÌa,1,3500,Tienda
-2026-01-12,MonterÌa,Ana Torres,Electro Hogar,Monitor 27",TecnologÌa,2,1250,Online
-2026-01-13,C˙cuta,Juan LÛpez,Ofimuebles,Escritorio,Muebles,3,890,Tienda
-2026-01-14,IbaguÈ,SofÌa GÛmez,Distribuidora Norte,Silla Ejecutiva,Muebles,2,980,Online
-2026-01-15,MedellÌn,Luis RamÌrez,Data Solutions,Router WiFi,Redes,7,280,Tienda
-2026-01-16,Bogot·,Camila Ruiz,Comercial Andes,Switch 24 Puertos,Redes,2,780,Online
-2026-01-17,Cali,AndrÈs Silva,Digital SAS,Laptop ASUS,TecnologÌa,2,3900,Tienda
-2026-01-18,Barranquilla,Diana Herrera,Importadora Sur,AudÌfonos Bluetooth,Accesorios,12,150,Online
-2026-01-19,Cartagena,Carlos PÈrez,Comercial Costa,Webcam HD,Accesorios,8,180,Tienda
+2026-01-11,Manizales,Carlos P√©rez,Compuservicios,Laptop HP,Tecnolog√≠a,1,3500,Tienda
+2026-01-12,Monter√≠a,Ana Torres,Electro Hogar,Monitor 27",Tecnolog√≠a,2,1250,Online
+2026-01-13,C√∫cuta,Juan L√≥pez,Ofimuebles,Escritorio,Muebles,3,890,Tienda
+2026-01-14,Ibagu√©,Sof√≠a G√≥mez,Distribuidora Norte,Silla Ejecutiva,Muebles,2,980,Online
+2026-01-15,Medell√≠n,Luis Ram√≠rez,Data Solutions,Router WiFi,Redes,7,280,Tienda
+2026-01-16,Bogot√°,Camila Ruiz,Comercial Andes,Switch 24 Puertos,Redes,2,780,Online
+2026-01-17,Cali,Andr√©s Silva,Digital SAS,Laptop ASUS,Tecnolog√≠a,2,3900,Tienda
+2026-01-18,Barranquilla,Diana Herrera,Importadora Sur,Aud√≠fonos Bluetooth,Accesorios,12,150,Online
+2026-01-19,Cartagena,Carlos P√©rez,Comercial Costa,Webcam HD,Accesorios,8,180,Tienda
 2026-01-20,Bucaramanga,Ana Torres,Grupo Beta,Disco Externo 2TB,Almacenamiento,4,490,Online
-2026-01-21,Pereira,Juan LÛpez,AlmacÈn Central,Tablet Samsung,TecnologÌa,5,1450,Tienda
-2026-01-22,MonterÌa,SofÌa GÛmez,Innovatech,Impresora HP,Oficina,3,890,Online
-2026-01-23,MedellÌn,Luis RamÌrez,CompuMarket,Mouse Gamer,Accesorios,15,120,Tienda
-2026-01-24,Bogot·,Camila Ruiz,Servicios Integrales,Teclado Inal·mbrico,Accesorios,9,140,Online
-2026-01-25,Cali,AndrÈs Silva,CorporaciÛn Delta,Laptop Dell,TecnologÌa,2,4100,Tienda
-2026-01-26,Barranquilla,Diana Herrera,Alfa IngenierÌa,Monitor Curvo,TecnologÌa,2,1800,Online
-2026-01-27,Cartagena,Carlos PÈrez,Red Empresarial,Access Point,Redes,6,360,Tienda
-2026-01-28,Bucaramanga,Ana Torres,ServiCompu,UPS 1500VA,EnergÌa,3,690,Online
-2026-01-29,Pereira,Juan LÛpez,Grupo Omega,Disco SSD 512GB,Almacenamiento,7,250,Tienda
-2026-01-30,MonterÌa,SofÌa GÛmez,TecnoWorld,Memoria USB 64GB,Almacenamiento,20,45,Online
-2026-01-31,MedellÌn,Luis RamÌrez,Net Solutions,C·mara IP,Seguridad,5,380,Tienda
-2026-02-01,Bogot·,Camila Ruiz,Vision Digital,Proyector,Oficina,2,2100,Online
+2026-01-21,Pereira,Juan L√≥pez,Almac√©n Central,Tablet Samsung,Tecnolog√≠a,5,1450,Tienda
+2026-01-22,Monter√≠a,Sof√≠a G√≥mez,Innovatech,Impresora HP,Oficina,3,890,Online
+2026-01-23,Medell√≠n,Luis Ram√≠rez,CompuMarket,Mouse Gamer,Accesorios,15,120,Tienda
+2026-01-24,Bogot√°,Camila Ruiz,Servicios Integrales,Teclado Inal√°mbrico,Accesorios,9,140,Online
+2026-01-25,Cali,Andr√©s Silva,Corporaci√≥n Delta,Laptop Dell,Tecnolog√≠a,2,4100,Tienda
+2026-01-26,Barranquilla,Diana Herrera,Alfa Ingenier√≠a,Monitor Curvo,Tecnolog√≠a,2,1800,Online
+2026-01-27,Cartagena,Carlos P√©rez,Red Empresarial,Access Point,Redes,6,360,Tienda
+2026-01-28,Bucaramanga,Ana Torres,ServiCompu,UPS 1500VA,Energ√≠a,3,690,Online
+2026-01-29,Pereira,Juan L√≥pez,Grupo Omega,Disco SSD 512GB,Almacenamiento,7,250,Tienda
+2026-01-30,Monter√≠a,Sof√≠a G√≥mez,TecnoWorld,Memoria USB 64GB,Almacenamiento,20,45,Online
+2026-01-31,Medell√≠n,Luis Ram√≠rez,Net Solutions,C√°mara IP,Seguridad,5,380,Tienda
+2026-02-01,Bogot√°,Camila Ruiz,Vision Digital,Proyector,Oficina,2,2100,Online
+2026-02-02,Cali,Carlos P√©rez,Importadora Sigma,Laptop Acer,Tecnolog√≠a,3,3400,Online
+2026-02-03,Medell√≠n,Ana Torres,CompuExpress,Monitor 32",Tecnolog√≠a,2,1950,Tienda
+2026-02-04,Bogot√°,Juan L√≥pez,Distribuciones Nova,Router Mesh,Redes,4,520,Online
+2026-02-05,Cartagena,Sof√≠a G√≥mez,Grupo Horizonte,Silla Gamer,Muebles,5,890,Tienda
+2026-02-06,Pereira,Luis Ram√≠rez,TecnoPlus,Impresora Multifuncional,Oficina,2,1150,Online
